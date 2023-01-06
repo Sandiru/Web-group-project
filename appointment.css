@@ -1,0 +1,82 @@
+header{
+    background-color: rgb(97, 58, 24);
+    font-size: 20px;
+    text-align: right;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+}
+header a{
+    color: #ffffff;
+    text-decoration: none;
+}
+header a:hover{
+    cursor: pointer;
+    color: rgb(96, 215, 173); 
+}
+
+body{
+    background-image: url(473309-McLaren_MP4-12C-black_cars.jpg);
+    background-size: cover;
+    color: aliceblue;
+}
+
+.container h1{
+    text-decoration: underline;
+}
+
+h1{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 40px;
+    margin: 90px auto;
+    text-align: center;
+}
+
+.container h4{
+    text-align: center;
+}
+
+.second h4{
+    text-align: center;
+}
+
+.second p{
+    text-align: center;
+}
+
+.third h4,p{
+    text-align: center;
+}
+
+.final{
+    text-align: center;
+}
+
+.container:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+.first:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+.second:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+.third:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
+
+.final:hover{
+    box-shadow: 5px 7px 9px -3px rgba(255,255,255,0.5);
+    cursor: pointer;
+}
